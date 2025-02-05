@@ -33,7 +33,7 @@ The *Forwarded* Logs event log is the default location to record events received
 - **Keywords:** Assigned by the source and used to group or sort events.
 
 - **Computer:** The computer on which the event was logged. This is useful when examining logs collected from multiple systems, but should not be considered to be the device that caused an event (such as when a remote logon is initiated, the Computer field will still show the name of the system logging the event, not the source of the connection).
-- 
+
 - **Description:** A text block where additional information specific to the event being logged is recorded. This is often the most significant field for the analyst.
 
 ## Types of Windows Event Log Analysis – Guide
@@ -100,16 +100,16 @@ The following events will be recorded on the system where the account was create
 
 ## Common Event ID 4768 Result Codes
 
-|   |   |   |
-|---|---|---|
-|**Decimal**|**Hex**|**Meaning**|
-|6|0x6|Username not valid.|
-|12|0xC|Policy restriction prohibiting this logon (such as a workstation restriction or time-of-day restriction).|
-|18|0x12|The account is locked out, disabled, or expired.|
-|23|0x17|The account’s password is expired.|
-|24|0x18|The password is incorrect.|
-|32|0x20|The ticket has expired (common on computer accounts).|
-|37|0x25|The clock skew is too great.|
+|             |                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| **Decimal** | **Meaning**                                                                                               |
+| 6           | Username not valid.                                                                                       |
+| 12          | Policy restriction prohibiting this logon (such as a workstation restriction or time-of-day restriction). |
+| 18          | The account is locked out, disabled, or expired.                                                          |
+| 23          | The account’s password is expired.                                                                        |
+| 24          | The password is incorrect.                                                                                |
+| 32          | The ticket has expired (common on computer accounts).                                                     |
+| 37          | The clock skew is too great.                                                                              |
 
 Source: [Microsoft](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4768)
 
