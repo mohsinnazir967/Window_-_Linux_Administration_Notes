@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "right": {
     "id": "15a40adb2c0a7398",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
     "README.md",
