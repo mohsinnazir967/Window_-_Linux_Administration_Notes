@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Networking Services and System Updates."
+              "title": "1. Window Server Introduction"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Networking Services and System Updates."
+              "title": "Backlinks for 1. Window Server Introduction"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Networking Services and System Updates."
+              "title": "Outgoing links from 1. Window Server Introduction"
             }
           },
           {
@@ -142,21 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Networking Services and System Updates."
+              "title": "Outline of 1. Window Server Introduction"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "README.md"
   ]
 }
