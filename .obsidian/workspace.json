@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Managing Storage Area Networks(SAN) and Failover Clustering."
+              "title": "2. Active Directory Domain Services"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8. Managing Storage Area Networks(SAN) and Failover Clustering."
+              "title": "Backlinks for 2. Active Directory Domain Services"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 8. Managing Storage Area Networks(SAN) and Failover Clustering."
+              "title": "Outgoing links from 2. Active Directory Domain Services"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Managing Storage Area Networks(SAN) and Failover Clustering."
+              "title": "Outline of 2. Active Directory Domain Services"
             }
           }
         ],
@@ -169,20 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
+    "README.md",
+    "Mohsin_Nazir_Notes/Virtualization/Virtual Box Installation.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/10.Implementing WSUS (Windows Software Update Service).md",
     "Mohsin_Nazir_Notes/Windows/Windows Log Analysis/Windows Event Log Analysis.md",
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Documentation.md",
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Trusted Sec.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/12.Performance Monitoring.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/11.Implementing a Virtual Private Network.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/4. Managing File Servers and Storage.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
-    "README.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md"
   ]
 }

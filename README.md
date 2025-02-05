@@ -2,3 +2,4 @@
 
 Complete SOC analyst training notes.
 x
+hypervisor types
