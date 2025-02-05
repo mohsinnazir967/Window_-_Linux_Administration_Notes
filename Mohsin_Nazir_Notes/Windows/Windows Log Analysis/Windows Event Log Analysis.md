@@ -281,8 +281,8 @@ Since Windows 8/Server 2012, additional logging can also be enabled in the Group
 
 When audit policy changes, it impacts the evidence available to investigators and incident handlers, whether the change was done maliciously by an attacker or legitimately by an administrator. Fortunately, modern Windows systems do a good job of logging these changes when they occur. The Event ID used for this auditing is 4719:
 
-- 4719 – System audit policy was changed. The Audit Policy Change section will list the specific changes that were made to the audit policy. The Subject section of the event description may show the account that made the change, but often (such as when the change is made through Group Policy) this section simply reports the name of the local system.
-- 1102 – Regardless of the settings in the audit policy, if the Security event log is cleared, Event ID 1102 will be recorded as the first entry in the new, blank log. You can tell the name of the user account that cleared the log in the details of the entry. A similar event, with ID 104, is generated in the System log if it is cleared.
+- **4719** – System audit policy was changed. The Audit Policy Change section will list the specific changes that were made to the audit policy. The Subject section of the event description may show the account that made the change, but often (such as when the change is made through Group Policy) this section simply reports the name of the local system.
+- **1102** – Regardless of the settings in the audit policy, if the Security event log is cleared, Event ID 1102 will be recorded as the first entry in the new, blank log. You can tell the name of the user account that cleared the log in the details of the entry. A similar event, with ID 104, is generated in the System log if it is cleared.
 
 ## Auditing Windows Services
 
