@@ -1,5 +1,8 @@
 # SOC Analyst Notes
 
 Complete SOC analyst training notes.
-x
-hypervisor types
+dklfjjsdhf
+fjdsjf
+jkdsfds
+
+
