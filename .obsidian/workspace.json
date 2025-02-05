@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Active Directory Domain Services"
+              "title": "3. DHCP and DNS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Active Directory Domain Services"
+              "title": "Backlinks for 3. DHCP and DNS"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Active Directory Domain Services"
+              "title": "Outgoing links from 3. DHCP and DNS"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Active Directory Domain Services"
+              "title": "Outline of 3. DHCP and DNS"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "README.md"
