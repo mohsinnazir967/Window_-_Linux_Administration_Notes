@@ -1,3 +1,4 @@
 # SOC Analyst Notes
 
 Complete SOC analyst training notes.
+xcxzcxc
