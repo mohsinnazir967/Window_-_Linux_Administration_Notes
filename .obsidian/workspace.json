@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "netstat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,10 +171,11 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
     "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
     "Mohsin_Nazir_Notes/Virtualization/Virtual Box Installation.md",
@@ -184,7 +184,6 @@
     "README.md",
     "Mohsin_Nazir_Notes/Virtualization/Images/Hypervisor.png",
     "Mohsin_Nazir_Notes/Virtualization/Images",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
