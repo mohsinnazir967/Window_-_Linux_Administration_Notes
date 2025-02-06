@@ -171,10 +171,11 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/4. Password & Port Forwarding.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Windows Subsystem for Linux.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Password & Port Forwarding.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png",
@@ -203,7 +204,6 @@
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Trusted Sec.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/12.Performance Monitoring.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/11.Implementing a Virtual Private Network.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/4. Managing File Servers and Storage.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md"
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/4. Managing File Servers and Storage.md"
   ]
 }
