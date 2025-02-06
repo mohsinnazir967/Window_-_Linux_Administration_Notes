@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Kernel Exploits.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel Exploits"
+              "title": "3. Kernel Exploits"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Kernel Exploits.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kernel Exploits"
+              "title": "Outline of 3. Kernel Exploits"
             }
           }
         ],
@@ -169,16 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Log Analysis/Windows Event Log Analysis.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel.png",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
@@ -195,7 +197,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/10.Implementing WSUS (Windows Software Update Service).md",
-    "Mohsin_Nazir_Notes/Windows/Windows Log Analysis/Windows Event Log Analysis.md",
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Documentation.md",
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Trusted Sec.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/12.Performance Monitoring.md",
