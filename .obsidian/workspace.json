@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Escalation Path Executables Files.md",
+                "file": "Mohsin_Nazir_Notes/Windows/10..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escalation Path Executables Files"
+              "title": "10."
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Escalation Path Executables Files.md",
+                "file": "Mohsin_Nazir_Notes/Windows/10..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Escalation Path Executables Files"
+              "title": "Outgoing links from 10."
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Escalation Path Executables Files.md",
+                "file": "Mohsin_Nazir_Notes/Windows/10..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Escalation Path Executables Files"
+              "title": "Outline of 10."
             }
           }
         ],
@@ -169,11 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0158faa5ae6478e2",
+  "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Escalation Path Executables Files.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/9. Escalation Path Executables Files.md",
+    "Mohsin_Nazir_Notes/Windows/10..md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Windows Privilege Escalation (Tib3rius).md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/5. Windows Subsystem for Linux.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/7. RunAs.md",
@@ -203,7 +204,6 @@
     "Mohsin_Nazir_Notes/Virtualization/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/10.Implementing WSUS (Windows Software Update Service).md"
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md"
   ]
 }
