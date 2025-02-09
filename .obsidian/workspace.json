@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Introduction"
+              "title": "12. Escalation Path Service Permissions"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00. Introduction"
+              "title": "Outgoing links from 12. Escalation Path Service Permissions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Introduction"
+              "title": "Outline of 12. Escalation Path Service Permissions"
             }
           }
         ],
@@ -171,6 +171,8 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/07. RunAs.md",
@@ -180,7 +182,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/03. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/02. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/01. Initial Enumeration.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
     "Mohsin_Nazir_Notes/Windows/10..md",
@@ -203,7 +204,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation",
     "README.md",
     "Mohsin_Nazir_Notes/Virtualization/Images/Hypervisor.png",
-    "Mohsin_Nazir_Notes/Virtualization/Images",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md"
+    "Mohsin_Nazir_Notes/Virtualization/Images"
   ]
 }
