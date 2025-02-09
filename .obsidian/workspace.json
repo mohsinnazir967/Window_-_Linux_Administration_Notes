@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Escalation Path Registry"
+              "title": "10. Escalation Path Startup Applications."
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 8. Escalation Path Registry"
+              "title": "Outgoing links from 10. Escalation Path Startup Applications."
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Escalation Path Registry"
+              "title": "Outline of 10. Escalation Path Startup Applications."
             }
           }
         ],
@@ -171,13 +171,13 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/9. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/7. RunAs.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/4. Password & Port Forwarding.md",
     "Mohsin_Nazir_Notes/Windows/10..md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Windows Privilege Escalation (Tib3rius).md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/5. Windows Subsystem for Linux.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/6. Impersonation and Potato Attacks.md",
