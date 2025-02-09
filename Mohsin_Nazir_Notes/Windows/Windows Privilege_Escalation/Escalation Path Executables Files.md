@@ -1,6 +1,6 @@
 # Escalation Path Executables files
 
-**Detection**
+## Detection
 
 Windows VM
 

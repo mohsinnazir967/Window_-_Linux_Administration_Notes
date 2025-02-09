@@ -152,11 +152,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92dabd3cc804d64b",
+  "active": "0158faa5ae6478e2",
   "lastOpenFiles": [
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/8. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Escalation Path Executables Files.md",
