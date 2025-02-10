@@ -93,7 +93,19 @@ Open firebox and browser to `localhost:8080` the webpage will display
 
 **Write a script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx.**
 
+```
+touch deploy.sh
+```
 
+```
+sudo vim diplop.sh
+```
 
+Add this lines and save the files
+
+```
+sudo cp /home/mohsin/webfiles/* /var/www/lab-site
+```
 
 **Use cron to run the script every day at 2 AM.**
+
