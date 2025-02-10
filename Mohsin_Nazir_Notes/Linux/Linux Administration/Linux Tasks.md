@@ -83,4 +83,16 @@ server {
 }
 ```
 
-Create a link of this configuration file in the sites
+Create a link of this configuration file in the `sites-enabled` directory
+
+```
+sudo ln -s /etc/nginx/sites-avaiable/lab-site /etc/sites-enabled/lab-site
+```
+
+
+
+**Write a script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx.**
+
+
+
+**Use cron to run the script every day at 2 AM.**
