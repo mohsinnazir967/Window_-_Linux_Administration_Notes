@@ -86,7 +86,7 @@ server {
 Create a link of this configuration file in the `sites-enabled` directory
 
 ```
-sudo ln -s /etc/nginx/sites-avaiable/lab-site /etc/sites-enabled/lab-site
+sudo ln -s /etc/nginx/sites-available/lab-site /etc/nginx/sites-enabled/lab-site
 ```
 
 Open firebox and browser to `localhost:8080` the webpage will display
