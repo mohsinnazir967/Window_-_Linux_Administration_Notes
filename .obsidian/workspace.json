@@ -11,12 +11,14 @@
             "id": "f7df937b94a7d776",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png"
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kernel_detailed"
+              "icon": "lucide-file",
+              "title": "13. CVE-2019-1388"
             }
           }
         ]
@@ -140,17 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kernel_detailed"
+              "title": "Outline of 13. CVE-2019-1388"
+            }
+          },
+          {
+            "id": "d58ab1f02edfa249",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,17 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7df937b94a7d776",
+  "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel.png",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel.png",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/07. RunAs.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/05. Windows Subsystem for Linux.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/04. Password & Port Forwarding.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/03. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/01. Initial Enumeration.md",
@@ -187,7 +201,6 @@
     "Mohsin_Nazir_Notes/Virtualization/Virtual Box Installation.md",
     "Mohsin_Nazir_Notes/Virtualization/Privilege Rings in Computer Architecture.md",
     "conflict-files-obsidian-git.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/6. Impersonation and Potato Attacks.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/9. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
@@ -195,7 +208,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/0. Introduction.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel_detailed.png",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",
