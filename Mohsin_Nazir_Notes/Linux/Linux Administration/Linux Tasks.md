@@ -153,6 +153,8 @@ sudo apt install iftop
 sudo iftop
 ```
 
+
+
 Write a script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
 
 Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.
