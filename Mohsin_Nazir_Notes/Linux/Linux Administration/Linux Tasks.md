@@ -180,6 +180,16 @@ chmod 777 scan-logs.shls
 
 **Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.**
 
+```
+# A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
+#
+cat /var/log/auth.log | grep -i "Failed Password" >> failed-login.txt
+
+cat failed-login.txt |  awk '{print $9}'
+
+```
+
+
 Schedule the script to run hourly.
 
 
