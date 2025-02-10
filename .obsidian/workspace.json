@@ -181,8 +181,9 @@
   },
   "active": "f7df937b94a7d776",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
@@ -208,7 +209,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/9. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/7. RunAs.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",

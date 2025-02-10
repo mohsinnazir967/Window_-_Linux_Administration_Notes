@@ -5,6 +5,7 @@
 
 Set up a Nginx web server with automated deployment of a static website.
 
+## Task
 
 **Install Nginx and ensure it starts on boot.**
 
@@ -98,14 +99,38 @@ touch deploy.sh
 ```
 
 ```
-sudo vim diplop.sh
+sudo vim deploy.sh
 ```
 
 Add this lines and save the files
 
 ```
-sudo cp /home/mohsin/webfiles/* /var/www/lab-site
+#script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx
+
+# Copying Files
+#
+sudo cp /home/mohsin/webfiles/* /var/www/lab-site.
+
+# Reloading Nginx
+
+systemctl restart nginx
+
 ```
 
 **Use cron to run the script every day at 2 AM.**
+
+```
+crontab -e
+```
+
+Add this entry, save and quit.
+
+```
+0 2 * * * /home/mohsin/deploy.sh
+```
+
+
+
+
+
 
