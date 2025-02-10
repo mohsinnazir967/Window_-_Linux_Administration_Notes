@@ -185,7 +185,11 @@ chmod 777 scan-logs.shls
 #
 cat /var/log/auth.log | grep -i "Failed Password" >> failed-login.txt
 
-cat failed-login.txt |  awk '{print $9}'
+cat failed-login.txt |  awk '{print $9}' | sort | uniq 
+
+
+
+
 
 ```
 
