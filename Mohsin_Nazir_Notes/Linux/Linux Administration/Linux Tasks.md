@@ -105,6 +105,8 @@ sudo vim deploy.sh
 Add this lines and save the files
 
 ```
+#!/bin/bash
+
 #script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx
 
 # Copying Files
@@ -154,7 +156,7 @@ sudo iftop
 ```
 
 
-Write a script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
+**Write a script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.**
 
 ```
 touch scan-logs.sh
@@ -162,14 +164,6 @@ touch scan-logs.sh
 
 ```
 vim scan-logs.sh
-```
-
-Add these lines, save and quit.
-
-```
-# A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
-#
-cat /var/log/auth.log | grep -i "Failed Password" >> failed-login.txt
 ```
 
 Give permissions
@@ -181,29 +175,37 @@ chmod 777 scan-logs.shls
 **Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.**
 
 ```
-# A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
-#
+#!/bin/bash
 
+# Define log file and output file
+LOG_FILE="/var/log/auth.log"
+OUTPUT_FILE="/var/log/failed-logins.txt"
 
+# Extract failed login attempts and log to file
 
-grep -i "Failed Password" >> failed-login.txt
+grep "Failed password" "$LOG_FILE" | awk '{print $(NF-3)}' | sort | uniq > "$OUTPUT_FILE"
 
-cat failed-login.txt |  awk '{print $9}' | sort | uniq >> ip.txt
+# Block all IPs listed in failed-logins.txt
+while read -r BLOCKED_IP; do
+    echo "Blocking IP: $BLOCKED_IP with UFW"
+    sudo ufw deny from "$BLOCKED_IP"
+done < "$OUTPUT_FILE"
 
-while read -r IP; do
-
-	sufo ufw deny from "$IP"
-	echo "$IP Blocked"
-done < "ip.txt"
-
-
-
-
-
+# Reload UFW to apply changes
+sudo ufw reload
 ```
 
-
 Schedule the script to run hourly.
+
+```
+crontab -e
+```
+
+add the entry
+
+```
+0 * * * * /home/mohsin/scan-logs.sh
+```
 
 
 
