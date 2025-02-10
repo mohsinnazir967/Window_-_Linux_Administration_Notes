@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. System Access & File Systems"
+              "title": "Linux Tasks"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. System Access & File Systems"
+              "title": "Outline of Linux Tasks"
             }
           },
           {
@@ -182,6 +181,7 @@
   },
   "active": "f7df937b94a7d776",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
@@ -209,7 +209,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/1. Initial Enumeration.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/7. RunAs.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/3. Kernel Exploits.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/2. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",

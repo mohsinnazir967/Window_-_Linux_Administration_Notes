@@ -63,4 +63,24 @@ sudo vim lab-site
 add this configuraiton
 
 ```
+# Virtual Host configuration for example.com
+
+# You can move that to a different file under sites-available/ and symlink that
+# to sites-enabled/ to enable it.
+
+server {
+	listen 8080;
+	listen [::]:8080;
+
+	server_name labsite.com;
+
+	root /var/www/lab-site;
+	index index.html;
+
+	location / {
+		try_files $uri $uri/ =404;
+	}
+}
 ```
+
+Create a link of this configuration file in the sites
