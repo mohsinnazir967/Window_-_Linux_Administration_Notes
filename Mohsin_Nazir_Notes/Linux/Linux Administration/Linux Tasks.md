@@ -35,16 +35,20 @@ cd lab-site
 ```
 
 ```
-touch index.html
+sudo touch index.html
 ```
 
 ```
 echo "Welcome to Intern Lab" | sudo tee index.html
 ``` 
 
+**Configure Nginx to serve the site from /var/www/lab-site on port 8080.**
+
+```
+
+```
 
 
-Configure Nginx to serve the site from /var/www/lab-site on port 8080.
 
 Write a script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx.
 
