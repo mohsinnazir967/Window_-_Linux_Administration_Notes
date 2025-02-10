@@ -89,9 +89,10 @@ Create a link of this configuration file in the `sites-enabled` directory
 sudo ln -s /etc/nginx/sites-avaiable/lab-site /etc/sites-enabled/lab-site
 ```
 
-
+Open firebox and browser to `localhost:8080` the webpage will display
 
 **Write a script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx.**
+
 
 
 
