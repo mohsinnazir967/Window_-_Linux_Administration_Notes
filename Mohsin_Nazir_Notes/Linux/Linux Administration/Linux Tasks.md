@@ -183,6 +183,9 @@ chmod 777 scan-logs.shls
 ```
 # A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
 #
+
+
+
 grep -i "Failed Password" >> failed-login.txt
 
 cat failed-login.txt |  awk '{print $9}' | sort | uniq >> ip.txt
@@ -201,6 +204,8 @@ done < "ip.txt"
 
 
 Schedule the script to run hourly.
+
+
 
 
 
