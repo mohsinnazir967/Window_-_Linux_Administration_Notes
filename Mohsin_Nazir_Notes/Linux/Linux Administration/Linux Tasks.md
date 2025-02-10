@@ -129,8 +129,35 @@ Add this entry, save and quit.
 0 2 * * * /home/mohsin/deploy.sh
 ```
 
+# Network Monitoring & Log Analysis 
 
+## Objective: 
 
+Monitor network traffic and analyze logs for suspicious activity.  
+
+## Tasks:
+
+Use tcpdump to capture 100 packets on interface eth0 and save to capture.pcap.
+
+```
+sudo tcpdump -i enp3s0 -c 100 -w capture.pcap
+```
+
+Install iftop to monitor real-time bandwidth usage.
+
+```
+sudo apt install iftop
+```
+
+```
+sudo iftop
+```
+
+Write a script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
+
+Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.
+
+Schedule the script to run hourly.
 
 
 
