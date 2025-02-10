@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. CVE-2019-1388"
+              "title": "6. Disk Management and Run Levels"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 13. CVE-2019-1388"
+              "title": "Outline of 6. Disk Management and Run Levels"
             }
           },
           {
@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "f7df937b94a7d776",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/10. Escalation Path Startup Applications..md",
