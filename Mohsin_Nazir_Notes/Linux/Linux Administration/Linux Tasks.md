@@ -156,9 +156,29 @@ sudo iftop
 
 Write a script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
 
+```
+touch scan-logs.sh
+```
 
+```
+vim scan-logs.sh
+```
 
-Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.
+Add these lines, save and quit.
+
+```
+# A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
+#
+cat /var/log/auth.log | grep -i "Failed Password" >> failed-login.txt
+```
+
+Give permissions
+
+```
+chmod 777 scan-logs.shls
+```
+
+**Block an IP address (e.g., 192.168.1.100) with ufw if it appears in failed-logins.txt.**
 
 Schedule the script to run hourly.
 
