@@ -183,9 +183,15 @@ chmod 777 scan-logs.shls
 ```
 # A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
 #
-cat /var/log/auth.log | grep -i "Failed Password" >> failed-login.txt
+grep -i "Failed Password" >> failed-login.txt
 
-cat failed-login.txt |  awk '{print $9}' | sort | uniq 
+cat failed-login.txt |  awk '{print $9}' | sort | uniq >> ip.txt
+
+while read -r IP; do
+
+	sufo ufw deny from "$IP"
+	echo "$IP Blocked"
+done < "ip.txt"
 
 
 
