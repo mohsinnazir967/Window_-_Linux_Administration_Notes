@@ -44,9 +44,30 @@ echo "Welcome to Intern Lab" | sudo tee index.html
 
 **Configure Nginx to serve the site from /var/www/lab-site on port 8080.**
 
+navigate to `/etc/nginx/sites-available` and create a configuration file for our site.
+
+```
+cd /etc/nginx/sites-available
 ```
 
 ```
+sudo touch lab-site
+```
+
+Edit the lab-site configuration and add these lines
+
+```
+sudo vim lab-site
+```
+
+add this configuraiton
+
+```
+```
+
+
+
+
 
 
 
