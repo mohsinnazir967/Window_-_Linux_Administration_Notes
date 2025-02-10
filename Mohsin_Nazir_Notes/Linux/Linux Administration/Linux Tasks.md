@@ -64,13 +64,3 @@ add this configuraiton
 
 ```
 ```
-
-
-
-
-
-
-
-Write a script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx.
-
-Use cron to run the script every day at 2 AM.
