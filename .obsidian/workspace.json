@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "LVM.png"
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png"
               },
               "icon": "lucide-image",
               "title": "LVM"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LVM.png",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,7 +180,7 @@
   "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
-    "LVM.png",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
