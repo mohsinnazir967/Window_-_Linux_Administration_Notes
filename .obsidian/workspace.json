@@ -11,12 +11,14 @@
             "id": "c81d1f1c622cd993",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png"
+                "file": "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "LVM"
+              "icon": "lucide-file",
+              "title": "Virtualization"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 444.5
   },
   "right": {
     "id": "15a40adb2c0a7398",
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
+                "file": "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LVM"
+              "title": "Outline of Virtualization"
             }
           },
           {
@@ -177,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d2a3a53330e195",
+  "active": "c81d1f1c622cd993",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
