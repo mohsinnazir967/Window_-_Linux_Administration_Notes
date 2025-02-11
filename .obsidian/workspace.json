@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. System Administration"
+              "title": "Linux Tasks"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usera",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. System Administration"
+              "title": "Outline of Linux Tasks"
             }
           },
           {
@@ -182,11 +181,11 @@
   },
   "active": "f7df937b94a7d776",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/4. Shell Scripting.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",

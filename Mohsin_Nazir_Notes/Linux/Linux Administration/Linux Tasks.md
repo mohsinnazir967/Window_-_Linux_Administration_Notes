@@ -244,7 +244,20 @@ sudo adduser dev2
 
 **Force both users to reset passwords on first login.**
 
+```
+sudo passwd --expire dev1
+```
+
+```
+sudo passwd --expire dev2
+```
+
 **Create a group developers and add both users to it.**
+
+```
+
+```
+
 
 **Restrict SSH access to members of the developers group.**
 
