@@ -223,20 +223,32 @@ add the entry
 0 * * * * /home/mohsin/scan-logs.sh
 ```
 
+# Task 3: User Management & Security Hardening 
 
-User Management & Security Hardening  
-Objective: Secure user accounts and audit system permissions.  
-Tasks:
+## Objective:
 
-Create two users: dev1 and dev2 with home directories.
+Secure user accounts and audit system permissions.  
 
-Force both users to reset passwords on first login.
+## Tasks: 
 
-Create a group developers and add both users to it.
+**Create two users: dev1 and dev2 with home directories.**
 
-Restrict SSH access to members of the developers group.
+```
+sudo adduser dev1
+```
 
-Find all files with SUID/SGID permissions and document them in suid-report.txt.
+```
+sudo adduser dev2
+```
+
+
+**Force both users to reset passwords on first login.**
+
+**Create a group developers and add both users to it.**
+
+**Restrict SSH access to members of the developers group.**
+
+**Find all files with SUID/SGID permissions and document them in suid-report.txt.**
 
 
 

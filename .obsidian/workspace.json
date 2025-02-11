@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grep",
+                "query": "password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7df937b94a7d776",
+  "active": "7737f08dfefd0569",
   "lastOpenFiles": [
     "Mohsin_Nazir_Notes/Linux/Linux Administration/4. Shell Scripting.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
