@@ -110,7 +110,7 @@ Add this lines and save the files
 #script (deploy.sh) to automate copying files from /home/user/web-files to /var/www/lab-site and reload Nginx
 
 # Copying Files
-#
+
 sudo cp /home/mohsin/webfiles/* /var/www/lab-site.
 
 # Reloading Nginx
