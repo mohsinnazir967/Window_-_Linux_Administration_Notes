@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtualization"
+              "title": "11. Escalation Path DLL Hijacking"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Virtualization"
+              "title": "Outline of 11. Escalation Path DLL Hijacking"
             }
           },
           {
@@ -181,6 +181,10 @@
   },
   "active": "c81d1f1c622cd993",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/01. Initial Enumeration.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/00. Introduction.md",
+    "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
@@ -196,10 +200,8 @@
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/10.Implementing WSUS (Windows Software Update Service).md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/11.Implementing a Virtual Private Network.md",
-    "Mohsin_Nazir_Notes/Virtualization/Virtualization.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/4. Shell Scripting.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/09. Escalation Path Executables Files.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
@@ -210,8 +212,6 @@
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images/Kernel.png",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/07. RunAs.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/05. Windows Subsystem for Linux.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/04. Password & Port Forwarding.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/03. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/Images",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",
