@@ -290,9 +290,8 @@ systemctl restart ssh
 **Find all files with SUID/SGID permissions and document them in suid-report.txt.**
 
 ```
-
+sudo find / -perm /6000 -type f >  suid-report.txt
 ```
 
 
-
-
+**************************
