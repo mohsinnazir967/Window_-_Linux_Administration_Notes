@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Tasks"
+              "title": "1. Window Server Introduction"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
+                "file": "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/1. Window Server Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Tasks"
+              "title": "Outline of 1. Window Server Introduction"
             }
           },
           {
@@ -179,8 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81d1f1c622cd993",
+  "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Windows/Windows Log Analysis/Windows Event Log Analysis.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
+    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration.zip",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Cheat Sheet.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/Kernel.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
@@ -188,10 +196,7 @@
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/12.Performance Monitoring.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
     "Mohsin_Nazir_Notes/Windows/Sysmon/Sysmon Documentation.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/3. DHCP and DNS.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/13. CVE-2019-1388.md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
-    "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/2. Active Directory Domain Services.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/11. Escalation Path DLL Hijacking.md",
     "Mohsin_Nazir_Notes/Windows/Windows Privilege_Escalation/01. Initial Enumeration.md",
@@ -201,9 +206,6 @@
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LinuxCheatSheet.pdf",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/8. Managing Storage Area Networks(SAN) and Failover Clustering..md",
     "Mohsin_Nazir_Notes/Windows/Windows Server 2019 Adminisrtration/10.Implementing WSUS (Windows Software Update Service).md",
