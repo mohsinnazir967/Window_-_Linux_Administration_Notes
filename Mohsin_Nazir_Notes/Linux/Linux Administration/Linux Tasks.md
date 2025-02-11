@@ -255,13 +255,43 @@ sudo passwd --expire dev2
 **Create a group developers and add both users to it.**
 
 ```
-
+sudo groupadd developers
 ```
 
+```
+sudo usermod -aG developers dev1
+```
+
+```
+sudo usermod -aG developers dev2
+```
 
 **Restrict SSH access to members of the developers group.**
 
+Navigate to the `/etc/ssh/sshd_config` file.
+
+```
+sudo vim sshd_config
+```
+
+add these lines, save & quit.
+
+```
+# Allowing only the developers groups
+AllowGroups developers
+```
+
+Restart the ssh service.
+
+```
+systemctl restart ssh
+```
+
 **Find all files with SUID/SGID permissions and document them in suid-report.txt.**
+
+```
+
+```
 
 
 
