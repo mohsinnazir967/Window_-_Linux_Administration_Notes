@@ -177,22 +177,38 @@ chmod 777 scan-logs.shls
 ```
 #!/bin/bash
 
-# Define log file and output file
-LOG_FILE="/var/log/auth.log"
-OUTPUT_FILE="/var/log/failed-logins.txt"
+# A script (scan-logs.sh) to search /var/log/auth.log for "Failed password" attempts and save results to failed-logins.txt.
 
-# Extract failed login attempts and log to file
 
-grep "Failed password" "$LOG_FILE" | awk '{print $(NF-3)}' | sort | uniq > "$OUTPUT_FILE"
+log_file="/var/log/auth.log"
+failed_login="/home/mohsin/failed-logins.txt"
+malicious_ip="/home/mohsin/malicious-ip"
 
-# Block all IPs listed in failed-logins.txt
-while read -r BLOCKED_IP; do
-    echo "Blocking IP: $BLOCKED_IP with UFW"
-    sudo ufw deny from "$BLOCKED_IP"
-done < "$OUTPUT_FILE"
+# Extracting the failed password logs and stored the ouput in file
 
-# Reload UFW to apply changes
-sudo ufw reload
+grep -i "failed password" "$log_file" >> "$failed_login"
+
+
+# Extract the ips and identifying the uniques ones
+
+awk '{print $(NF-3)}' failed-login.txt | sort | uniq > "$malicious_ip"
+
+# Blocking all the IP stored in the malicious_ip files
+
+# using while loop to block all the ips one by one.
+
+while read -r mal_IP; do
+
+        # Blocking IP with ufw 
+        sudo ufw deny from "$mal_IP"
+        echo "$mal_IP is blocked"
+
+done<"malicious_ip" # Giving the input file.
+
+# restart the ufw service
+
+systemctl restart ufw
+
 ```
 
 Schedule the script to run hourly.
