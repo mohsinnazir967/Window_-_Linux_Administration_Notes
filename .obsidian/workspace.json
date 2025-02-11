@@ -11,14 +11,12 @@
             "id": "c81d1f1c622cd993",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
-                "mode": "source",
-                "source": false
+                "file": "LVM.png"
               },
-              "icon": "lucide-file",
-              "title": "6. Disk Management and Run Levels"
+              "icon": "lucide-image",
+              "title": "LVM"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
+                "file": "LVM.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Disk Management and Run Levels"
+              "title": "Outline of LVM"
             }
           },
           {
@@ -179,12 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81d1f1c622cd993",
+  "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM 1.png",
+    "LVM.png",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/Images/LVM.png",
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Cheat Sheet.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/Linux Tasks.md",
