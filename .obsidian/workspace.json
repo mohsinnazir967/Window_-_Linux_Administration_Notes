@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. System Administration"
+              "title": "6. Disk Management and Run Levels"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cron",
+                "query": "user monit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. System Administration"
+              "title": "Outline of 6. Disk Management and Run Levels"
             }
           }
         ],
@@ -170,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a99432ba5b240e1",
+  "active": "7737f08dfefd0569",
   "lastOpenFiles": [
-    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/4. Shell Scripting.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
