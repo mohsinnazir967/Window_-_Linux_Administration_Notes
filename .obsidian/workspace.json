@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. System Access & File Systems"
+              "title": "2. Linux Fundamentals"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. System Access & File Systems"
+              "title": "Outline of 2. Linux Fundamentals"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
     "Mohsin_Nazir_Notes/10./Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
@@ -208,7 +209,6 @@
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/02. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/01. Initial Enumeration.md",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/00. Introduction.md",
-    "Mohsin_Nazir_Notes/10./Windows Log Analysis/Windows Event Log Analysis.md",
     "Mohsin_Nazir_Notes/10./Windows Server 2019 Adminisrtration",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation",
     "Mohsin_Nazir_Notes/10./Windows Log Analysis",
