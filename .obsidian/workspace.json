@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Linux Fundamentals"
+              "title": "3. System Administration"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
+                "file": "Mohsin_Nazir_Notes/Linux/Linux Administration/3. System Administration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Linux Fundamentals"
+              "title": "Outline of 3. System Administration"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "5a99432ba5b240e1",
   "lastOpenFiles": [
+    "Mohsin_Nazir_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/1. System Access & File Systems.md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/5. Networking Services and System Updates..md",
     "Mohsin_Nazir_Notes/Linux/Linux Administration/6. Disk Management and Run Levels.md",
@@ -208,7 +209,6 @@
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/03. Kernel Exploits.md",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/02. Exploring Automated Tools.md",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/01. Initial Enumeration.md",
-    "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation/00. Introduction.md",
     "Mohsin_Nazir_Notes/10./Windows Server 2019 Adminisrtration",
     "Mohsin_Nazir_Notes/10./Windows Privilege_Escalation",
     "Mohsin_Nazir_Notes/10./Windows Log Analysis",
