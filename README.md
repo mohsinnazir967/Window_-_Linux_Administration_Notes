@@ -1,6 +1,6 @@
-# SOC Analyst Notes
+# Windows & Linux Administration Notes
 
-Complete SOC analyst training notes.
+
 
 
 
