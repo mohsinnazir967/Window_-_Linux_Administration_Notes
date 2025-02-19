@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3afa73c248f0d35",
+  "active": "0158faa5ae6478e2",
   "lastOpenFiles": [
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",
