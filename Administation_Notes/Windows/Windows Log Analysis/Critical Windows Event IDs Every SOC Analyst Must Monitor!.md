@@ -43,6 +43,7 @@
 ⚠️ Service Installation or Modification - Event ID: 4697 (Persistence method for malware)  
   
 ## 🌐 Network & Active Directory Security  
+
 🌍 Unusual Network Connections - Event ID: 5156 (Monitor suspicious outbound connections)  
 🌍 Unauthorized Access to Shared Files - Event ID: 5145 (Potential data exfiltration)  
 🌍 DNS Query for Malicious Domains - Event ID: 5158 (Requires DNS logs)  

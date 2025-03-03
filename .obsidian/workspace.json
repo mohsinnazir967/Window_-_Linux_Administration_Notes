@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
+                "file": "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
                 "mode": "source",
                 "source": false
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
+                "file": "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c92e9f6b7690b28",
+  "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
     "Administation_Notes/Linux/Linux Administration/4. Shell Scripting.md",
-    "Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
+    "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
     "Administation_Notes/Virtualization/Hypervisor Installation.md",
     "README.md",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
