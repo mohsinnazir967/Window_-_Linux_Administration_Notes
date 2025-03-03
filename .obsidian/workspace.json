@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "history",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3afa73c248f0d35",
+  "active": "c6d2a3a53330e195",
   "lastOpenFiles": [
     "Administation_Notes/Virtualization/Hypervisor Installation.md",
     "README.md",
