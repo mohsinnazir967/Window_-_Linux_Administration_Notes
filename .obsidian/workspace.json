@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Critical Windows Event IDs Every SOC Analyst Must Monitor!"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Critical Windows Event IDs Every SOC Analyst Must Monitor!"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "4c92e9f6b7690b28",
   "lastOpenFiles": [
+    "Administation_Notes/Windows/Windows Log Analysis/Windows Event Log Analysis.md",
+    "README.md",
     "Administation_Notes/Linux/Linux Administration/3. System Administration.md",
     "Administation_Notes/Linux/Linux Administration/2. Linux Fundamentals.md",
     "Administation_Notes/Virtualization/Hypervisor Installation.md",
@@ -193,7 +195,6 @@
     "Administation_Notes/Virtualization/Privilege Rings in Computer Architecture.md",
     "Administation_Notes/Windows/Windows Log Analysis/Critical Windows Event IDs Every SOC Analyst Must Monitor!.md",
     "Administation_Notes/Linux/Linux Administration/4. Shell Scripting.md",
-    "README.md",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 4 of Data Duplication.png",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 3 of Data Duplication.png",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration/Images/Step 2 of Data Deduplication.png",
@@ -224,7 +225,6 @@
     "Administation_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
     "Administation_Notes/Windows/Windows Privilege_Escalation/07. RunAs.md",
     "Administation_Notes/Windows/Windows Privilege_Escalation/06. Impersonation and Potato Attacks.md",
-    "Administation_Notes/Windows/Windows Privilege_Escalation/05. Windows Subsystem for Linux.md",
     "Administation_Notes/Linux/Linux Administration/Images",
     "Administation_Notes/Windows/Windows Server 2019 Adminisrtration",
     "Administation_Notes/Windows/Windows Privilege_Escalation",
