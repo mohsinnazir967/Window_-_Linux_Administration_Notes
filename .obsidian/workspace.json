@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "12. Escalation Path Service Permissions"
             }
+          },
+          {
+            "id": "2a05dea7b22711b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administation_Notes/Windows/Windows Privilege_Escalation/12. Escalation Path Service Permissions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Escalation Path Service Permissions"
+              "title": "Outline"
             }
           }
         ],
@@ -185,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c92e9f6b7690b28",
+  "active": "2a05dea7b22711b0",
   "lastOpenFiles": [
     "Administation_Notes/Windows/Windows Privilege_Escalation/08. Escalation Path Registry.md",
     "Administation_Notes/Windows/Windows Privilege_Escalation/04. Password & Port Forwarding.md",
